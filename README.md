@@ -15,3 +15,5 @@
 ```
 ### Below is my allure overview report:
 <img width="948" alt="OrangeHrm_Summary" src="https://user-images.githubusercontent.com/59090637/209871073-ffe8acf7-8e45-4b28-80aa-3f6463645326.PNG">
+
+### Here is the overall walkthrough of the project:[Video](https://drive.google.com/drive/u/0/folders/1Fp8bfWFBpHi3AFMjKqb3bJD4KrYL7wMa)
