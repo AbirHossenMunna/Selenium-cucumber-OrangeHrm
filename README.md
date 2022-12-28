@@ -13,3 +13,5 @@
 ```bash
   mvn clean test 
 ```
+### Below is my allure overview report:
+<img width="948" alt="OrangeHrm_Summary" src="https://user-images.githubusercontent.com/59090637/209871073-ffe8acf7-8e45-4b28-80aa-3f6463645326.PNG">
